@@ -1,6 +1,4 @@
-# 🧑‍💻 Hi there, I'm Dwiki! 👋
-I break things until they work — and sometimes they actually do.
-
+# Hi there, I'm Dwiki! 👋
 ---
 
 ## 📊 GitHub Stats
